@@ -1,0 +1,4 @@
+WebServiceRES.MainActivity, WebServiceRES;md56447d6b1533ea5c462b42296707512b3.MainActivity
+WebServiceRES.MainActivity, WebServiceRES, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56447d6b1533ea5c462b42296707512b3.MainActivity
+WebServiceRES.MainActivity;md56447d6b1533ea5c462b42296707512b3.MainActivity
+webserviceres.MainActivity;md56447d6b1533ea5c462b42296707512b3.MainActivity
